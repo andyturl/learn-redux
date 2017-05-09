@@ -37,8 +37,6 @@ store.dispatch({
     searchText: 'work'
 });
 
-
-
 store.dispatch({
     type:'CHANGE_SEARCH_TEXT',
     searchText: 'time'
